@@ -1,0 +1,24 @@
+.logoBar .navigation-wrapper, 
+.logoBar .socialSharing {
+  display: none !important;
+}
+
+.logoBar {
+  display: none !important;
+}
+
+
+.dashboard-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.powerbi-container {
+  width: 100%;
+  height: 80%;
+}
+
+  
